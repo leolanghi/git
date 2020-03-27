@@ -1,3 +1,4 @@
 Meu Teste
 ENtendo o HEAD caraioooo
 Esta linha foi modificada no ramo master (Conflito)
+Esta linha foi modificada no ramo teste
